@@ -1,0 +1,18 @@
+
+
+<html>
+	<p>RPA process for billing request has completed on </p>
+
+	<table>
+		<tr>
+			<td>Rows that are validated</td>
+			<td>Rows with errors</td>
+			<td>Numbers</td>
+		</tr>
+
+</table>
+
+<p>Thank You,</p>
+<p>this message was sent by the rpa process</p>
+
+</html>
